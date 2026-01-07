@@ -1,23 +1,27 @@
-# Mohammad Zaghal — Responsive Portfolio
+# Mohammed Alzaghal — Portfolio Website (RWD)
 
-This is my customized responsive portfolio built from a Bootstrap starter template.
+A responsive portfolio website built by customizing a Bootstrap-based template as part of a Responsive Web Design task.
 
-## What’s inside
-- 5 sections: **What I Do**, **Projects**, **Academics**, **Favorites**, **Contact**
-- Project cards that link to GitHub repos (replace placeholder links)
-- Static contact section (works on GitHub Pages)
-- Footer year is set automatically via JavaScript
+## Sections
+- Hero / Intro
+- What I Do (Services)
+- Portfolio (Projects)
+- About (Academic story + thesis)
+- Favorites + Contact
 
-## Customize in 5 minutes
-Open `index.html` and replace:
-- `Mohammad Zaghal` (if needed)
-- `USERNAME` and `REPO#` links
-- `you@example.com`
-- Academic years `YYYY–YYYY`
+## My links
+- GitHub: https://github.com/mohammadzaghal
+- LinkedIn: https://www.linkedin.com/in/mohammed-alzaghal/
 
-## Deploy on GitHub Pages
-1. Push this repository to GitHub.
-2. Go to **Settings** → **Pages**.
-3. Select the branch (usually `main`) and folder (`/root`).
-4. Save, then open the generated GitHub Pages URL.
+## Featured projects
+- AI Ops Suite: https://github.com/mohammadzaghal/ai-ops-suite
+- Recipe Book System: https://github.com/mohammadzaghal/recipe-book-system
+- Car Rental Site: https://github.com/mohammadzaghal/car-rental-site
+- Patient Portal: https://github.com/mohammadzaghal/patient-portal
 
+## Deployment
+This site is deployed using GitHub Pages:
+Settings → Pages → Deploy from branch → main / (root)
+
+Live site:
+https://mohammadzaghal.github.io/mohammadzaghal-portfolio/
